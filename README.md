@@ -7,6 +7,7 @@
 ###  Installing keras 
     conda install keras
 ---
+ Dataset <https://www.kaggle.com/c/cifar-10/data>
  
  ## Creating Models in Keras:
   1. Initializing the Model: -sequential() 
